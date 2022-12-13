@@ -27,17 +27,6 @@ The present project "NanoStore by eXplorins" will allow to experience virtual it
 
 Through the NEAR based NanoStore app users may place items in their sorrounding whereever they are and before their actual purchase decision, and in case of a transaction into their own wallet send the item out for 3D printing to later receive the piece as physical item afterwards. In that sense this applies as well for 3D printing services which can let their customers check out any piece in AR before the actual printing job.
 
-Kickoff: Dec 1st, 2022
-Prod-ready MVP: March 1st, 2023
-
-For eXplorins this project is highly aligned with our strategy to build a increasing set of features combining online & offline experiences.
-https://about.explorins.com/en/
-
-
-We see a very high potential targeting very broad audiences from creator's industry as artists & designers and 3D printings.
-
----
-
 Please provide the following:
 
 - If the name of your project is not descriptive, a tag line (one sentence summary).
